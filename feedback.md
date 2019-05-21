@@ -15,7 +15,7 @@ I enjoyed our session because it didn’t feel like we were rushing just to comp
 You don’t have to say sorry just because something doesn’t click right away. It happens to all of us and we learn it together. :) It was fun working together, thank you again!
 
 
-=========================================================================================
+======================================================================================
 
 
 5 May at 15:13
@@ -34,7 +34,7 @@ I enjoyed that you proactively initiated a break. I need to get in a habit of ta
 You are a very humble coder, which is a great quality! My only constructive note would be, lose the subtle self digs, you don't need them! "So and so is really good at this... not like me". The second part to that comment does you no favours. We're all out here learning and you are smashing out projects just like everyone else! Forget about comparisons :D
 
 
-=========================================================================================
+======================================================================================
 
 
 2 May at 09:43
@@ -53,7 +53,7 @@ Enjoyed helping you with javascript
 None spring to mind
 
 
-=========================================================================================
+======================================================================================
 
 
 26 Apr at 10:42
@@ -72,7 +72,7 @@ Both of us didn't rush through any concepts covered and went back to previous st
 As mentioned above I think our pairing session went well! I don't believe there's much to improve on at this current point in time as we both did what we could with our current understanding, as our knowledge grows over the course I believe this will lead us to be able to help each other explain and execute more complex concepts which will help enhance our pairing abilities in the future.
 
 
-=========================================================================================
+======================================================================================
 
 
 25 Apr at 12:30
